@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vivado on Xing GUO&#39;s Site</title>
+    <link>/tags/vivado/</link>
+    <description>Recent content in Vivado on Xing GUO&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 15:16:46 +0000</lastBuildDate><atom:link href="/tags/vivado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivado HLS 初体验</title>
+      <link>/archives/first-scratch-on-vivado-hls/</link>
+      <pubDate>Tue, 24 Jul 2018 15:16:46 +0000</pubDate>
+      
+      <guid>/archives/first-scratch-on-vivado-hls/</guid>
+      <description>&lt;p&gt;其实很早就知道 Vivado HLS 这个东西了，但是身边人没有人使用它，只知道它是一个可以把 C/C++ 转化成 HDL 的一个软件。直到这个暑假，有幸在上海的 LLVM 社区中国的线下聚会上，有在北京 Xilinx 工作的工程师分享了一些有关 HLS 的底层实现方面的介绍，也很有趣。而刚好在前段时间的&lt;del&gt;划水&lt;/del&gt;实习中，有要用到一丢丢的 HLS，所以记录一下使用心得。下面要使用的样例是来自 &lt;a href=&#34;https://github.com/KastnerRG/pp4fpgas&#34;&gt;pp4fpgas&lt;/a&gt; 中的 Huffman Encoding 章节。源码可以到前面给出的 Github 链接找到。再次推荐一下这本书，从高层到底层的讲解都十分的棒，相见恨晚！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>更好的管理 Vivado 项目</title>
+      <link>/archives/manage-vivado-projects/</link>
+      <pubDate>Tue, 10 Jul 2018 15:16:46 +0000</pubDate>
+      
+      <guid>/archives/manage-vivado-projects/</guid>
+      <description>&lt;p&gt;最近在划水 FPGA 的一个培训，因为可以兑换学校的实习学分，所以就凑了热闹，不过重新温习这个东西我也有了一点对 Vivado 项目管理的想法，同时也找到了一些有用的东西&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
